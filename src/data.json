@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "Iphone 12 Pro Max",
+            "price": 12000000,
+            "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-13_2_.png",
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "productName": "Iphone 14 Pro Max",
+            "price": 14500000,
+            "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/_/e/_en_2_5.jpg",
+            "stock": 15
+        },
+        {
+            "id": 3,
+            "productName": "Iphone 15 Pro Max",
+            "price": 22000000,
+            "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/d/_/d_ng_3.jpg",
+            "stock": 5
+        },
+        {
+            "id": 4,
+            "productName": "Samsung Galaxy 22",
+            "price": 22000000,
+            "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiaomi-redmi-note-12s_2_1_1_1.jpg",
+            "stock": 11
+        },
+        {
+            "id": 5,
+            "productName": "OnePlus 8",
+            "price": 20000000,
+            "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/p/m/pms_1670745783.80967984_2_1_2.png",
+            "stock": 15
+        },
+        {
+            "id": 6,
+            "productName": "XiaoMi Redmi 6",
+            "price": 18000000,
+            "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiami-13t-xanh-la-01-doc-quyen_1.jpg",
+            "stock": 5
+        },
+        {
+            "id": 7,
+            "productName": "Hehe Phone",
+            "price": 32000000,
+            "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiami-13t-xanh-la-01-doc-quyen_1_2.jpg",
+            "stock": 10
+        },
+        {
+            "id": 8,
+            "productName": "BPhone",
+            "price": 10000000000000000,
+            "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/x/i/xiaomi-redmi-13c_21__1_1.png",
+            "stock": 5
+        }
+    ]
+}
